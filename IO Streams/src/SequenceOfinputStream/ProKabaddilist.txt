@@ -1,0 +1,1 @@
+ProKabaddi [numOfPoints=500, numSuper10s=20]ProKabaddi [numOfPoints=600, numSuper10s=10]ProKabaddi [numOfPoints=700, numSuper10s=15]

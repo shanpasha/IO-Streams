@@ -1,0 +1,1 @@
+dataStoresIntoTxt [accountNum=123456, name=raj, isfc=andb0023, mobileNum=7569642122]

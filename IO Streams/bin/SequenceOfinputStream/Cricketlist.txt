@@ -1,0 +1,4 @@
+Cricket [runs=2036, numOf50s=10, numOf100s=7]
+Cricket [runs=3036, numOf50s=8, numOf100s=5]
+Cricket [runs=4036, numOf50s=6, numOf100s=7]
+Cricket [runs=5036, numOf50s=8, numOf100s=10]
